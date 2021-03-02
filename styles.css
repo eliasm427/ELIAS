@@ -1,0 +1,19 @@
+p {
+    border: 10px solid rgb(241, 239, 240);
+    margin: 50px;
+  }
+
+body {
+    background-color: rgb(219, 41, 175);
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: rgb(241, 238, 238);
+  }
+  h1 {
+    color: blue;
+ 
+  font-family: verdana;
+  font-size: 300%;
